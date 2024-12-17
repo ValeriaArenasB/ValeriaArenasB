@@ -26,19 +26,22 @@ Soy una estudiante de sexto semestre con experiencia en **análisis, diseño y g
    - **Descripción**: Proyecto inspirado en aplicaciones de transporte como Uber, que simula la gestión de viajes, conductores y pasajeros. Implementa conceptos avanzados de programación orientada a objetos y estructuras de datos.
    - **Repositorio**: [MyUber](https://github.com/ValeriaArenasB/MyUber)
 
-### 2. **CycloQuestWeb**
-   - **Descripción**: Aplicación web diseñada para ciclistas, que facilita la planificación de rutas, el seguimiento de estadísticas y la interacción con una comunidad de usuarios. Incluye funcionalidad de autenticación y diseño responsivo.
-   - **Repositorio**: [CycloQuestWeb](https://github.com/ValeriaArenasB/CycloQuestWeb)
+_Coming soon..._ ¡Próximamente publicaré aquí algunos de los proyectos que estoy desarrollando!
 
-### 3. **BattleshipConPersistencia**
-   - **Descripción**: Versión del clásico juego de batalla naval, con persistencia de datos para guardar partidas. Este proyecto se centra en la lógica del juego y el uso de archivos para almacenamiento.
-   - **Repositorio**: [BattleshipConPersistencia](https://github.com/ValeriaArenasB/BattleshipConPersistencia)
 ---
 
 ## 🌟 Conéctate conmigo  
 📧 **Correo**: [valeriare1405@gmail.com](mailto:valeriare1405@gmail.com)  
-💼 **LinkedIn**: [linkedin.com/in/valeria-arenas](https://linkedin.com) _(Enlace de muestra)_  
+💼 **LinkedIn**: [linkedin.com/in/valeria-arenas](https://linkedin.com](https://www.linkedin.com/in/valeria-arenas-4a6679222/)
 
 ---
 
 ⭐ **¡Gracias por visitar mi perfil!** ⭐  
+
+
+
+
+
+
+
+
