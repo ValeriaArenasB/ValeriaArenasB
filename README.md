@@ -1,48 +1,38 @@
 # 👩‍💻 Valeria Andrea Arenas Becerra
 
 ### Estudiante de Ingeniería de Sistemas | Pontificia Universidad Javeriana  
-🌟 **Promedio actual**: 4.63/5  
-🎯 Apasionada por el desarrollo de soluciones tecnológicas innovadoras, el diseño de proyectos de software, y la optimización de procesos a través de la tecnología.
+🎯 Apasionada por el desarrollo de soluciones tecnológicas innovadoras en Sistemas de Información, el diseño de proyectos de Software, y la Inteligencia Artificial.
 
 ---
 
 ## 🌐 Acerca de mí  
 Soy una estudiante de sexto semestre con experiencia en **análisis, diseño y gestión de proyectos de software**. He trabajado como monitora académica y administrativa, lo que me ha permitido desarrollar habilidades técnicas y blandas como la **gestión de equipos**, **liderazgo** y la **comunicación efectiva**.  
 
-Mi objetivo profesional es contribuir al desarrollo de tecnologías que transformen la vida de las personas y simplifiquen procesos a través de la innovación.  
-
 ---
 
 ## 🛠️ Habilidades técnicas  
-- **Lenguajes de programación**:  
+- **Lenguajes de programación**: 
   - C++, C, R, Java, Python, SQL  
 - **Desarrollo web**:  
   - HTML, CSS, JavaScript  
 - **Herramientas y tecnologías**:  
   - Git, AWS, Docker, Azure, Bizagi, Microsoft Office  
 
-### Idiomas  
-- Español (Nativo)  
-- Inglés (Fluido)  
-- Francés (Intermedio)  
-
----
-
-## 🎓 Educación  
-### Ingeniería de Sistemas  
-**Pontificia Universidad Javeriana**  
-2022 - 2026 (Previsto)  
-
-### Certificaciones  
-- [AWS Academy Cloud Foundations (2024)](https://aws.amazon.com)  
-- Procesamiento de Lenguaje Natural y Análisis de Texto - Sekia, PUJ (2024)  
-- Red Hat System Administration I (RH124) (2024)  
-
 ---
 
 ## 🚀 Proyectos destacados  
-_Coming soon..._ ¡Próximamente publicaré aquí algunos de los proyectos que estoy desarrollando!
 
+### 1. **MyUber**
+   - **Descripción**: Proyecto inspirado en aplicaciones de transporte como Uber, que simula la gestión de viajes, conductores y pasajeros. Implementa conceptos avanzados de programación orientada a objetos y estructuras de datos.
+   - **Repositorio**: [MyUber](https://github.com/ValeriaArenasB/MyUber)
+
+### 2. **CycloQuestWeb**
+   - **Descripción**: Aplicación web diseñada para ciclistas, que facilita la planificación de rutas, el seguimiento de estadísticas y la interacción con una comunidad de usuarios. Incluye funcionalidad de autenticación y diseño responsivo.
+   - **Repositorio**: [CycloQuestWeb](https://github.com/ValeriaArenasB/CycloQuestWeb)
+
+### 3. **BattleshipConPersistencia**
+   - **Descripción**: Versión del clásico juego de batalla naval, con persistencia de datos para guardar partidas. Este proyecto se centra en la lógica del juego y el uso de archivos para almacenamiento.
+   - **Repositorio**: [BattleshipConPersistencia](https://github.com/ValeriaArenasB/BattleshipConPersistencia)
 ---
 
 ## 🌟 Conéctate conmigo  
