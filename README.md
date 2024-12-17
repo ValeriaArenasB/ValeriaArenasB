@@ -32,7 +32,7 @@ _Coming soon..._ ¡Próximamente publicaré aquí algunos de los proyectos que e
 
 ## 🌟 Conéctate conmigo  
 📧 **Correo**: [valeriare1405@gmail.com](mailto:valeriare1405@gmail.com)  
-💼 **LinkedIn**: [linkedin.com/in/valeria-arenas](https://linkedin.com](https://www.linkedin.com/in/valeria-arenas-4a6679222/)
+💼 **LinkedIn**: [linkedin.com/in/valeria-arenas](https://www.linkedin.com/in/valeria-arenas-4a6679222/)
 
 ---
 
