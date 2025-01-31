@@ -20,18 +20,7 @@ Soy una estudiante de sexto semestre con experiencia en **análisis, diseño y g
 
 ---
 
-## 🚀 Proyectos destacados  
-
-### 1. **MyUber**
-   - **Descripción**: Proyecto inspirado en aplicaciones de transporte como Uber, que simula la gestión de viajes, conductores y pasajeros. Implementa conceptos avanzados de programación orientada a objetos y estructuras de datos.
-   - **Repositorio**: [MyUber](https://github.com/ValeriaArenasB/MyUber)
-
-_Coming soon..._ ¡Próximamente publicaré aquí algunos de los proyectos que estoy desarrollando!
-
----
-
 ## 🌟 Conéctate conmigo  
-📧 **Correo**: [valeriare1405@gmail.com](mailto:valeriare1405@gmail.com)  
 💼 **LinkedIn**: [linkedin.com/in/valeria-arenas](https://www.linkedin.com/in/valeria-arenas-4a6679222/)
 
 ---
