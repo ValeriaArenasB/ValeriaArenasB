@@ -75,7 +75,8 @@ Analytics:   Power BI, Apache Spark
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ValeriaArenasB&theme=tokyonight" alt="GitHub Streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValeriaArenasB&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValeriaArenasB&layout=compact&theme=tokyonight&exclude_repo=My-Uber&langs_count=8" />
+
 </p>
 
 ---
