@@ -69,13 +69,13 @@ Analytics:   Power BI, Apache Spark
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ValeriaArenasB&show_icons=true&theme=radical" alt="Valeria's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ValeriaArenasB&show_icons=true&theme=tokyonight" alt="Valeria's GitHub stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ValeriaArenasB&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ValeriaArenasB&theme=tokyonight" alt="GitHub Streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValeriaArenasB&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValeriaArenasB&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
 
 ---
@@ -97,3 +97,12 @@ Analytics:   Power BI, Apache Spark
 ---
 
 <p align="center"><em>“Turning ideas into scalable solutions through technology.”</em></p>
+
+
+
+
+<div align="center">
+  
+![Visitor Count](https://komarev.com/ghpvc/?username=ValeriaArenasB&color=blue&style=for-the-badge)
+  
+</div>
